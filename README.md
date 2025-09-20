@@ -32,7 +32,7 @@ Enter the number of passes: <br/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="blob:https://imgur.com/60dc8d52-25ee-4973-842d-2a5b797a9247" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/so0tCHu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
