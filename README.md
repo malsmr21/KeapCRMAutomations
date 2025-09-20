@@ -55,19 +55,27 @@ Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/Fehamxz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/ZQoOXqZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+OPPS: M2 Membership Cancellation and Changes:  <br/>
+<img src="https://i.imgur.com/ZQoOXqZ.png" height="80%" width="80%" alt="OPPS: M2 Membership Cancellation and Changes"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Spiffy Checkout Form:  <br/>
 <img src="https://i.imgur.com/53N5YmY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/Fehamxz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Spiffy Product Automation:  <br/>
+<img src="https://i.imgur.com/AH4VNpD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Spiffy Products:  <br/>
+<img src="https://i.imgur.com/Flpthsy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Zapier Setup:  <br/>
+<img src="https://i.imgur.com/e6OW4cQ.png" height="80%" width="80%" alt="Zapier Setup"/>
+<br />
+<br />
+Spiffy Products:  <br/> 
 <img src="https://i.imgur.com/Flpthsy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
