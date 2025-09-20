@@ -51,8 +51,24 @@ Sanitization complete:  <br/>
 <img src="https://i.imgur.com/UQwaDA2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Observe the wiped disk:  <br/>
+Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/Fehamxz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/ZQoOXqZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/53N5YmY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/Fehamxz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/Flpthsy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
