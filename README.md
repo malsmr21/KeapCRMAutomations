@@ -39,12 +39,20 @@ Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/vhKxmG3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+ Sanitization complete:  <br/>
+<img src="https://i.imgur.com/QvOmd1z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ls7T893.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/UQwaDA2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/Fehamxz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
