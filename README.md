@@ -75,8 +75,8 @@ Zapier Setup:  <br/>
 <img src="https://i.imgur.com/e6OW4cQ.png" height="80%" width="80%" alt="Zapier Setup"/>
 <br />
 <br />
-Spiffy Products:  <br/> 
-<img src="https://i.imgur.com/Flpthsy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Zapier Product Setup to capture the Original Subscription Date:  <br/> 
+<img src="https://i.imgur.com/NgiOPW9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
